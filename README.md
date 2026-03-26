@@ -1,2 +1,16 @@
-# Python-Programs
-It's a basic python This program determines if a given number is even or odd using the modulo operator.
+# Python Projects
+
+This repository contains my basic Python programs.
+
+## Projects
+- Calculator
+- Even Odd Checker
+- Prime Number Checker
+- Factorial Calculator
+
+## Purpose
+I created these programs to practice Python and improve my programming skills.
+
+## Author
+Vivek Kumar
+
